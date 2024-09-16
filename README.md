@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Luan Genro, nice to meet you! What's your name?
-- 👀 I’m interested in studying Java, Python, API's and pretty much everything related to programming. I also really love playing basketball and grinding hard at the gym! What about you? What do you love to do?
-- 🌱 I’m currently studying Spring Mail, Spring Web, Spring Utils, Spring Testing, JUnit, SendGrid mailing and introducing to Python. 😁
-- 💞️ I’m looking to collaborate on Java Spring open source projects.
-- 📫 Reach me through my email: luangenro98@gmail.com
+
